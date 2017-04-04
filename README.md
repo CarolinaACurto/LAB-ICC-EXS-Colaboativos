@@ -1,5 +1,5 @@
 # LAB-ICC-EXS-Colaboativos
 
 
-Os exercicios nesse repositorio junto com READ.ME e LICENSE. Eles vem especificado quais sao, estão como arquivos .txt
+Os exercicios estão nesse repositorio. Eles vem especificado quais são, estão como arquivos .txt
 
