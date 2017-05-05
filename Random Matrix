@@ -4,7 +4,7 @@
 int main(){
 int m[5][5];
 int i,j;
-srand (unsigned) time (NULL));
+srand ((unsigned) time (NULL));
  
  
  for (i=0;i<5;i++){
